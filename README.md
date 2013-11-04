@@ -5,11 +5,11 @@ A barebones theme for [Ghost](http://github.com/tryghost/ghost/) based on [html5
 Please note that Ghost is in an early development stage and this theme may adapt as Ghost evolves.
 
 ## Installing
-Download the [latest version](http://github.com/jdahdah/ghost-html5-boilerplate/archive/master.zip) of the Ghost HTML5-Boilerplate Theme and unzip its contents into a folder named `html5-boilerplate`. Put that in the Ghost theme directory:
+Download the [latest version](http://github.com/jdahdah/ghost-html5-boilerplate/archive/master.zip) of the Ghost HTML5-Boilerplate Theme and unzip its contents into a folder named whatever you want to call your theme. Put that in the Ghost theme directory:
 
 `[GHOST_DIRECTORY]/content/themes/`
 
-Restart Ghost, then navigate to `Settings` \> `General` in the Ghost admin area. Select "html5-boilerplate" from the dropdown menu labeled "Theme" and hit `Save`. Voilà.
+Restart Ghost, then navigate to `Settings` \> `General` in the Ghost admin area. Select your theme from the dropdown menu labeled "Theme" and hit `Save`. Voilà.
 
 ## Version
 Currently based on html5-boilerplate v4.3.0.
