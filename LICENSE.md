@@ -50,7 +50,7 @@ SOFTWARE.
 
 ----
 
-Ghost and Casper Theme:
+Casper Theme:
 
 Copyright (c) 2013 Ghost Foundation - Released under The MIT License.
 
