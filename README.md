@@ -4,6 +4,8 @@ A barebones theme for [Ghost](http://github.com/tryghost/ghost/) based on [html5
 
 Please note that Ghost is in an early development stage and this theme may adapt as Ghost evolves.
 
+![Screenshot](https://raw.github.com/wiki/jdahdah/ghost-html5-boilerplate/ghost-html5-boilerplate-screencap.png)
+
 ## Installing
 Download the [latest version](http://github.com/jdahdah/ghost-html5-boilerplate/archive/master.zip) of the Ghost HTML5-Boilerplate Theme and unzip its contents into a folder named whatever you want to call your theme. Put that in the Ghost theme directory:
 
