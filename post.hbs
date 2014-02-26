@@ -8,11 +8,11 @@
     <article class="{{post_class}}">
 
         <header>
-            <a href="{{@blog.url}}">
+            <a class="blog-logo" href="{{@blog.url}}">
                 {{#if @blog.logo}}
                     <img src="{{@blog.logo}}" alt="Blog Logo">
                 {{else}}
-                    {{@blog.title}}
+                    <span class="blog-title">{{@blog.title}}</span>
                 {{/if}}
             </a>
         </header>
