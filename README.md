@@ -14,7 +14,7 @@ Download the [latest version](http://github.com/jdahdah/ghost-html5-boilerplate/
 Restart Ghost, then navigate to `Settings` \> `General` in the Ghost admin area. Select your theme from the dropdown menu labeled "Theme" and hit `Save`. Voilà.
 
 ## Version
-Currently based on html5-boilerplate v4.3.0.
+The current master version of Ghost HTML5 Boilerplate is intended for use with **Ghost v0.4 and above** and based html5-boilerplate v4.3.0. Refer to the [releases](http://github.com/jdahdah/ghost-html5-boilerplate/releases) page if you need this theme compatible to an older version of Ghost. Version numbers are matched up to the Ghost release they are compatible with.
 
 ## Feedback
 Please leave feedback by opening an [issue](http://github.com/jdahdah/ghost-html5-boilerplate/issues) on Github.
