@@ -1,6 +1,6 @@
 Ghost HTML5-Boilerplate:
 
-Copyright (C) 2013 Jerome Dahdah - Released under the MIT License.
+Copyright (c) 2014 Jerome Dahdah - Released under the MIT License.
 
 Permission is hereby granted, free of charge, to any person
 obtaining a copy of this software and associated documentation
