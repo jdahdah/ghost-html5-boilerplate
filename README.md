@@ -1,5 +1,7 @@
 # Ghost HTML5 Boilerplate Theme
 
+**NOTE: This code is outdated and no longer being maintained.**
+
 A barebones theme for [Ghost](http://github.com/tryghost/ghost/) based on [html5-boilerplate](http://github.com/h5bp/html5-boilerplate/). This theme offers a very basic, unstyled output of your Ghost content to give you a head-start with the theme engine, while implementing the structure and best-practices of HTML5-Boilerplate. The theme also borrows some code from the default Ghost theme [Casper](http://github.com/TryGhost/Casper).
 
 Please note that Ghost is in an early development stage and this theme may adapt as Ghost evolves.
